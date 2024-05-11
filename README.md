@@ -10,7 +10,7 @@ Prototype for a remote control using the REST API of the [Blackmagic Camera Cont
 
 ## Video in Side by Side
 
-<img src="./assets/mo.gif" width="600px">
+<img src="./assets/mo.webp" width="600px">
 
 
 ## Screenshots
