@@ -8,6 +8,10 @@ stereoscopic 3D camera remote for Blackmagic Micro Studio 4K G2 Camera
 ## Description 
 Prototype for a remote control using the REST API of the [Blackmagic Camera Control SDK](https://documents.blackmagicdesign.com/DeveloperManuals/BlackmagicCameraControl.pdf).
 
+## Video in Side by Side
+
+<img src="./assets/mo.gif" width="600px">
+
 
 ## Screenshots
 
