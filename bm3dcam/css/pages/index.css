@@ -1,0 +1,67 @@
+/* -- custom css for file index.html -- */
+
+/* -- fa f7-icons -- */
+#obj-1477 {
+	font-size: 25px;
+}
+
+/* -- title -- */
+#obj-1478 {
+	left: 0px;
+}
+
+/* -- fa f7-icons text-success -- */
+#recbutton {
+	font-size: 25px;
+}
+
+/* -- block custom-block mb-2 -- */
+#div-1202 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- flexbox display-flex flex-row justify-content-space-between align-items-center flex-nowrap -- */
+#flexbox-1223 {
+	height: 60px;
+}
+
+/* -- snippet embed-responsive text-white -- */
+#div-1263 {
+	position: relative;
+}
+
+/* -- block custom-block -- */
+#div-1186 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block -- */
+#div-1187 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block mt-4 mb-0 -- */
+#obj-1200 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
